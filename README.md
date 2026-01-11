@@ -88,7 +88,5 @@ This project demonstrates my ability to:
 ---
 
 ## 📚 Reference
-This project was inspired by a SQL-focused COVID-19 analysis tutorial and was independently implemented with customized queries and analysis logic.
-
-YouTube Reference:  
-https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
+This project was developed by referencing general ideas and approaches shared by  
+[Alex The Analyst](https://github.com/AlexTheAnalyst).
