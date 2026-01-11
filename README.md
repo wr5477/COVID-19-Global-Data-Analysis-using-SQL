@@ -84,8 +84,3 @@ This project demonstrates my ability to:
 - Perform structured exploratory data analysis directly in a database  
 - Translate raw data into meaningful insights  
 - Write clean, analytical SQL queries suitable for production environments  
-
----
-
-## 📚 Reference
-This project was developed by referencing general ideas and approaches shared by [Alex The Analyst](https://github.com/AlexTheAnalyst).
